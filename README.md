@@ -4,6 +4,8 @@ My solution to the Kaggle challange
 
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
+Code used for the correlation matrix:
+https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python
 
 Code used for forward selection:
 https://xavierbourretsicotte.github.io/subset_selection.html
